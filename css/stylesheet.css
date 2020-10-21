@@ -1,0 +1,33 @@
+
+*{font-family: 'Roboto', sans-serif;}
+
+body{ background-color:#CBAf87;
+    font-family: 'Roboto', sans-serif;}
+.nav {text-align:center;
+background-color:#7E8A97;
+    position: sticky;
+    font-family: 'Roboto', sans-serif;
+    }
+a:link{color: rgb(31,183, 221);}
+a:visited{
+    color: silver;
+}
+ul.nobullet{list-style-type: none;
+padding:0px}
+nav.a:visited {color: sislver;}
+h1{
+    text-align:center
+}
+.main{
+    background-color:#E7DEC8;
+    text-align:left;
+
+}
+img{
+    background-color:#E7DEC8;
+    margin:10px;
+    float:left;
+
+}
+
+
